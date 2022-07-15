@@ -6,9 +6,7 @@ import com.hishd.cleanarchnewsapp.data.repository.datasource.NewsRemoteDataSourc
 import retrofit2.Response
 
 class NewsRemoteDataSourceImpl(
-    private val country: String,
-    private val page: Int,
     private val service: NewsAPIService
 ): NewsRemoteDataSource {
-    override suspend fun getTopHeadLines(): Response<APIResponse> = service.getTopHeadlines(country, page)
+    override suspend fun getTopHeadLines(country: String, page: Int): Response<APIResponse> = service.getTopHeadlines(country, page)
 }

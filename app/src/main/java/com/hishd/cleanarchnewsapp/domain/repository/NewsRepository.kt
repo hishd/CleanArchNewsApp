@@ -7,7 +7,7 @@ import kotlinx.coroutines.flow.Flow
 
 interface NewsRepository {
     //Functions related to the network related operations
-    suspend fun getNewsHeadlines(): Resource<APIResponse>
+    suspend fun getNewsHeadlines(country: String, page: Int): Resource<APIResponse>
     suspend fun getSearchedNews(searchQuery: String): Resource<APIResponse>
 
     //Functions related to the Local data related operations
