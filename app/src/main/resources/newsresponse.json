@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Natasha Turak",
+      "title": "British man dies in detention in Russian separatist territory; 45 countries pledge to punish Russian war crimes - CNBC",
+      "description": "Dozens of countries have vowed to help Ukraine prosecute Russian war crimes, as rescuers search for people missing after Russia's missile attack on Vinnytsia.",
+      "url": "https://www.cnbc.com/2022/07/15/russia-ukraine-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107088909-1657817496629-gettyimages-1241894489-AFP_32EE4WX.jpeg?v=1657817547&w=1920&h=1080",
+      "publishedAt": "2022-07-15T12:27:00Z",
+      "content": "Recent satellite imagery reveals a clear increase in mass burial sites in Russian-occupied areas of Ukraine, according to an investigation by the non-governmental organization Centre for Information … [+1027 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Elizabeth Lopatto",
+      "title": "Twitter aims its most powerful weapon at Elon Musk: his own tweets - The Verge",
+      "description": "Twitter’s lawsuit to force Elon Musk to go forward with his acquisition is a doozy, not least because Musk’s own tweets are part of the case.",
+      "url": "https://www.theverge.com/2022/7/15/23216684/twitter-elon-musk-lawsuit-tweets",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/f7GH6yYL-k_yyIeykrCIxGqhYYY=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23390587/VRG_Illo_STK022_K_Radtke_Musk_Stock_Neutral.jpg",
+      "publishedAt": "2022-07-15T12:00:00Z",
+      "content": "The face of a man who has decided he wont defeat the spambots or die trying\r\nIllustration by Kristen Radtke / The Verge; Getty Images\r\nThis story is part of a group of stories called \r\nA limited-run … [+7655 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Annie Palmer",
+      "title": "Amazon Prime Day shoppers buy up diapers, snacks as inflation shifts consumer habits - CNBC",
+      "description": "Amazon's marquee sales event, which ran Tuesday and Wednesday, landed at a time of soaring inflation, which has caused lifted the price of food and energy.",
+      "url": "https://www.cnbc.com/2022/07/15/inflation-weary-amazon-shoppers-buy-up-essentials-during-prime-day.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106982140-1638275675454-gettyimages-1236892604-AMAZON_CYBER_MONDAY.jpeg?v=1638275762&w=1920&h=1080",
+      "publishedAt": "2022-07-15T11:30:02Z",
+      "content": "Instant Pots and Roombas are typically hot selling items during Amazon's Prime Day event. But this year, consumers were more interested in dishwasher pods, diapers and snacks.\r\nLooking at some of the… [+3878 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Scott Calvert",
+      "title": "Democratic Spending Boosts Conservative Candidate in Maryland Governor’s Race - The Wall Street Journal",
+      "description": "Analysts say Democrats want to run against Trump-backed Dan Cox in an effort to grab a seat currently held by Larry Hogan, a moderate Republican.",
+      "url": "https://www.wsj.com/articles/democratic-spending-boosts-conservative-candidate-in-maryland-governors-race-11657884600",
+      "urlToImage": "https://images.wsj.net/im-584149/social",
+      "publishedAt": "2022-07-15T11:30:00Z",
+      "content": "In the race for the Republican nomination to be Marylands next governor, the biggest spender has been a Democratic group.\r\nThe Democratic Governors Association has spent or has reservations in place … [+417 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Timothy Nerozzi",
+      "title": "Biden to meet with Palestinian leader before heading to Saudi Arabia Friday on Middle East trip - Fox News",
+      "description": "President Biden left for his first Middle East trip as president this week, with stops in Israel, the occupied West Bank and Saudi Arabia.",
+      "url": "https://www.foxnews.com/live-news/biden-middle-east-trip",
+      "urlToImage": "https://livenews.foxnews.com/images/2022/07/7aa32f8446a21f49bfe6b9ec07225b6e.jpg",
+      "publishedAt": "2022-07-15T11:27:32Z",
+      "content": "Israeli Prime Minister Yair Lapid on Friday thanked President Biden for his visit to Israel this week.\r\nHe said that after the leaders signed the Jerusalem Declaration, deepening Americas commitment … [+682 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Texas attorney general Ken Paxton sues Biden over abortion policy - WFAA",
+      "description": "Biden told doctors they can continue to perform abortion when providing emergency care. Paxton says that violates Texas' interest.",
+      "url": "https://www.youtube.com/watch?v=wItKcNciXz0",
+      "urlToImage": "https://i.ytimg.com/vi/wItKcNciXz0/hqdefault.jpg",
+      "publishedAt": "2022-07-15T10:51:40Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Times"
+      },
+      "author": "Victor Mather, Tariq Panja",
+      "title": "Jim Thorpe Is Restored as Sole Winner of 1912 Olympic Gold Medals - The New York Times",
+      "description": "Thorpe, one of the greatest athletes in history, was stripped of his decathlon and pentathlon titles for violating rules against professionalism.",
+      "url": "https://www.nytimes.com/2022/07/15/sports/olympics/jim-thorpe-olympics-medal-restored.html",
+      "urlToImage": "https://static01.nyt.com/images/2022/07/15/world/15jimthorpe/merlin_210071106_1f7ac474-3fe9-4820-a8a0-c1b4c3097dda-facebookJumbo.jpg",
+      "publishedAt": "2022-07-15T10:42:48Z",
+      "content": "Bright Path Strong, a foundation named for Thorpes Indigenous name, hasled the efforts to restore Thorpes status.\r\nWe welcome the fact that, thanks to the great engagement of Bright Path Strong, a so… [+778 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Ben Kesslen, Larry Celona, Tina Moore, Elizabeth Rosner",
+      "title": "Ivana Trump dead: Former President Trump's ex-wife found at bottom of staircase in NYC home - New York Post ",
+      "description": "Ivana Trump, the Czech-American ex-wife of former President Trump and mother of Ivanka, Eric, and Don Jr, died Thursday. She was 73.",
+      "url": "https://nypost.com/2022/07/14/ivana-trump-ex-wife-of-former-president-trump-dead-at-73/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/07/ivana-trump-obituary-00b.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2022-07-15T10:33:42Z",
+      "content": "Ivana Trump, the Czech American businesswoman and ex-wife of former President Donald Trump, died Thursday in Manhattan. She was 73.\r\nThe 45th president announced the death of his first wife and mothe… [+8461 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ESPN"
+      },
+      "author": null,
+      "title": "WNBA star Brittney Griner back in Russian court as trial resumes - ESPN",
+      "description": "Brittney Griner appeared in a Russian court as her trial resumed Friday. Her attorneys gave evidence that Griner had a medical exemption for cannabis use in the United States.",
+      "url": "https://www.espn.com/wnba/story/_/id/34246519/wnba-star-brittney-griner-back-russian-court-trial-resumes",
+      "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0715%2Fr1036511_1296x729_16%2D9.jpg",
+      "publishedAt": "2022-07-15T10:31:13Z",
+      "content": "KHIMKI, Russia -- A lawyer for WNBA star Brittney Griner at her drug possession trial in Russia on Friday gave the court a U.S. doctor's letter recommending she use medical cannabis to treat pain.\r\nG… [+4518 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": null,
+      "title": "Koffee With Karan 7: Saif Ali Khan Likes Daughter Sara's Films As Long As They Aren't... - NDTV Movies",
+      "description": "So far, Sara has appeared in only one film which is a sequel/remake of her father’s movies",
+      "url": "https://www.ndtv.com/entertainment/sara-ali-khan-reveals-dad-saif-likes-her-films-as-long-as-they-are-3160367",
+      "urlToImage": "https://c.ndtvimg.com/2022-07/blb140c_sara-ali-khan_625x300_15_July_22.jpg",
+      "publishedAt": "2022-07-15T10:20:52Z",
+      "content": "Saif Ali Khan with dad Saif. (courtesy: karanjohar)\r\nNew Delhi: The new and freshly brewed episode of Karan Johar's much-loved talk show Koffee With Karan dropped on Disney+Hotstar on Thursday. Guest… [+1666 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Constance Wu says she tried to kill herself after tweets backlash - BBC",
+      "description": "The US actress says she attempted suicide due to \"internet shaming\" following her \"careless tweets\".",
+      "url": "https://www.bbc.com/news/entertainment-arts-62175188",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/427E/production/_125922071_hi076901017.jpg",
+      "publishedAt": "2022-07-15T09:37:35Z",
+      "content": "Constance Wu has said she tried to kill herself after facing a backlash over comments she made about the renewal of her TV series Fresh Off The Boat.\r\nThe US actress made the revelation in a statemen… [+3355 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Sri Lanka swears in Ranil Wickremesinghe as acting leader after mass protests - BBC",
+      "description": "The crisis-hit island nation has a new interim leader but he may prove unacceptable to protesters.",
+      "url": "https://www.bbc.com/news/world-asia-62176758",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11C08/production/_125921727_mediaitem125921726.jpg",
+      "publishedAt": "2022-07-15T09:27:50Z",
+      "content": "Sri Lanka is seeking a way out of political and economic chaos after its President Gotabaya Rajapaksa resigned and fled the country.\r\nPrime Minister Ranil Wickremesinghe was sworn in as temporary lea… [+3462 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "María Luisa Paúl",
+      "title": "Indianapolis doctor reported 10-year-old's abortion as required - The Washington Post",
+      "description": "Records show the doctor, Caitlin Bernard, reported the 10-year-old's abortion as required by law, despite criticism from Indiana Attorney General Todd Rokita.",
+      "url": "https://www.washingtonpost.com/nation/2022/07/15/indiana-doctor-abortion-report-investigation/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Q5WPZSB6UAI6RFK3PUXBTN4ZMY.jpg&w=1440",
+      "publishedAt": "2022-07-15T09:04:00Z",
+      "content": "Comment on this story\r\nHours after a man was charged Wednesday with raping a 10-year-old Ohio girl, Indiana Attorney General Todd Rokita (R) questioned whether the Indianapolis doctor who helped the … [+6909 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "U.S. Secret Service deleted texts sought in Jan. 6 probe, watchdog says - Reuters.com",
+      "description": "The U.S. Secret Service deleted text messages from Jan. 5 and Jan. 6, 2021 after they were requested by oversight officials investigating the agency's response to the Jan. 6 attack on the Capitol, the agency watchdog has claimed.",
+      "url": "https://www.reuters.com/world/us/us-secret-service-deleted-emails-sought-jan-6-probe-watchdog-says-2022-07-15/",
+      "urlToImage": "https://www.reuters.com/resizer/oFGH3JyjD6jiV6o2zMTqwebKmKA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/D6OHETQEHBNUPMQC5ZT65PUZJU.jpg",
+      "publishedAt": "2022-07-15T08:50:00Z",
+      "content": "House Select Committee investigating the Jan. 6 attack led by Chairman Rep. Bennie Thompson, D-Miss., swears in the witnesses during during the seventh public hearing by the House Select Committee to… [+2681 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "Biden Set to Leave Saudi Arabia With No Announcement on Oil - Bloomberg",
+      "description": null,
+      "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=f31a5583-045e-11ed-a686-414b6f687458&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0wNy0xNS9uby1hbm5vdW5jZW1lbnRzLWV4cGVjdGVkLW9uLW9pbC1vdXB1dC1kdXJpbmctYmlkZW4tbWlkZWFzdC10cmlw",
+      "urlToImage": null,
+      "publishedAt": "2022-07-15T08:41:37Z",
+      "content": "To continue, please click the box below to let us know you're not a robot."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Jay Busbee",
+      "title": "2022 British Open live updates: Tiger Woods tries to make cut as Round 2 begins - Yahoo Sports",
+      "description": "Follow along with this year's British Open as it unfolds, right here on Yahoo Sports.",
+      "url": "https://sports.yahoo.com/2022-british-open-tracker-phil-mickelson-john-daly-among-early-starters-083255160.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/9vqcVW_RujHmMVZjJ4Rkog--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-07/cb7358a0-034e-11ed-9fdf-0d8c72b4d488",
+      "publishedAt": "2022-07-15T08:30:56Z",
+      "content": "The second round of the 2022 Open Championship or British Open, as the Americans call it is underway at St. Andrews, the home of golf. The final men's major of the year, this year's Open promises to … [+1434 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera",
+      "title": "Saudi Arabia opens up airspace to all airlines, including Israeli - Al Jazeera English",
+      "description": "Saudi Arabia says it will open its airspace to all air carriers, paving the way for more overflights to and from Israel.",
+      "url": "https://www.aljazeera.com/news/2022/7/15/saudi-arabia-opens-airspace-including-airlines-from-israel",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/07/000_9L677L.jpg?resize=1200%2C630",
+      "publishedAt": "2022-07-15T08:04:00Z",
+      "content": "Saudi Arabia says it will open its airspace to all air carriers, paving the way for more overflights to and from Israel a further sign that relations between the two countries are warming.\r\nThe Saudi… [+2460 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Elsie Boskamp, Jon Winkler, Jillian Lucas, Kasey Caminiti and Jennifer Ernst Beaudry, USA TODAY",
+      "title": "Prime Day 2022: Shop the 110+ deals still live post-Amazon Prime Day - USA TODAY",
+      "description": "If you missed Prime Day 2022, Amazon still has over 110 deals on home essentials, tech, style and more available now.",
+      "url": "https://www.usatoday.com/story/money/reviewed/2022/07/15/new-amazon-prime-day-sale-deals-2022/10063205002/",
+      "urlToImage": "https://www.gannett-cdn.com/presto/2022/07/14/USAT/eb6450e1-077b-4b8f-af16-b476f13b04c3-Amazon_Prime_Day_deals_71522.jpg?auto=webp&crop=4779,2689,x0,y0&format=pjpg&width=1200",
+      "publishedAt": "2022-07-15T07:38:25Z",
+      "content": "— Recommendations are independently chosen by Reviewed’s editors. Purchases you make through our links may earn us a commission.\r\nWe're at the end of the week and the end of another Amazon Prime Day.… [+10776 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "https://www.engadget.com/about/editors/mariella-moon",
+      "title": "James Webb telescope can take detailed photos of our own solar system's planets and moons - Engadget",
+      "description": "NASA has released images of Jupiter taken during James Webb's commissioning period..",
+      "url": "https://www.engadget.com/james-webb-telescope-jupiter-images-072407786.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-07/5b336350-0407-11ed-8ebf-613d0f2674f2",
+      "publishedAt": "2022-07-15T07:26:08Z",
+      "content": "Over the past few days, NASA has released stunning photos of nebulae, groups of galaxies and even the \"deepest\" view of the universe taken by the James Webb Space Telescope. Now, the agency has relea… [+2366 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "China's economy brakes sharply in Q2, global risks darken outlook - Reuters.com",
+      "description": "China's economic growth slowed sharply in the second quarter, highlighting the colossal toll on activity from widespread COVID lockdowns and pointing to persistent pressure over coming months from a darkening global outlook.",
+      "url": "https://www.reuters.com/world/china/chinas-q2-gdp-growth-slows-sharply-04-yy-missing-fcast-2022-07-15/",
+      "urlToImage": "https://www.reuters.com/resizer/v0rVZtVT-Pc4mxuAQg4yxZLRmpM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/S2ZNDYPMB5J6LPJ3GF7JOKPJRY.jpg",
+      "publishedAt": "2022-07-15T06:54:00Z",
+      "content": "BEIJING, July 15 (Reuters) - China's economic growth slowed sharply in the second quarter, highlighting the colossal toll on activity from widespread COVID lockdowns and pointing to persistent pressu… [+5747 chars]"
+    }
+  ]
+}
