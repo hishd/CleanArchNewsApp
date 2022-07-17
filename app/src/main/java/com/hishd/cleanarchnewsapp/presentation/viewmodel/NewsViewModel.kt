@@ -6,6 +6,7 @@ import android.net.ConnectivityManager
 import android.net.NetworkCapabilities
 import android.os.Build
 import androidx.lifecycle.AndroidViewModel
+import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.viewModelScope
 import com.hishd.cleanarchnewsapp.data.model.APIResponse
@@ -19,8 +20,9 @@ class NewsViewModel(
     private val getNewsHeadlinesUseCase: GetNewsHeadlinesUseCase
 ): AndroidViewModel(app) {
     private val newsResponse: MutableLiveData<Resource<APIResponse>> = MutableLiveData()
+    val response: LiveData<Resource<APIResponse>> get() = newsResponse
 
-    private fun getNewsHeadlines(country: String, page: Int) {
+    fun getNewsHeadlines(country: String, page: Int) {
         newsResponse.postValue(Resource.Loading())
         try {
             if(!isNetworkAvailable(app)) {

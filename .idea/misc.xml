@@ -3,10 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Development_New/Android/CleanArchNewsApp/app/src/main/res/drawable/round_container.xml" value="0.2105" />
         <entry key="..\:/Development_New/Android/CleanArchNewsApp/app/src/main/res/layout/activity_main.xml" value="0.371875" />
         <entry key="..\:/Development_New/Android/CleanArchNewsApp/app/src/main/res/layout/fragment_info.xml" value="0.371875" />
         <entry key="..\:/Development_New/Android/CleanArchNewsApp/app/src/main/res/layout/fragment_news.xml" value="0.371875" />
         <entry key="..\:/Development_New/Android/CleanArchNewsApp/app/src/main/res/layout/fragment_saved_news.xml" value="0.371875" />
+        <entry key="..\:/Development_New/Android/CleanArchNewsApp/app/src/main/res/layout/item_news_list.xml" value="0.37083333333333335" />
         <entry key="..\:/Development_New/Android/CleanArchNewsApp/app/src/main/res/menu/menu_bottom.xml" value="0.371875" />
       </map>
     </option>
